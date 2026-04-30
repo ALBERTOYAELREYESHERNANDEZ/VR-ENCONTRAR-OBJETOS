@@ -12,7 +12,7 @@ public class SceneLoader : MonoBehaviour
     public GameObject loadingScreen;
     public Slider loadingBar;
 
-    /// <summary>
+    /// <summary>HAZ 
     /// Carga la escena definida en la variable sceneToLoad del Inspector.
     /// </summary>
     public void LoadTargetScene()
